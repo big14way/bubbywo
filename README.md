@@ -8,11 +8,13 @@ A production-ready Web3 dApp built for the **WalletConnect + Base Builder Progra
 
 ## 🚀 Live Deployment
 
+**🌐 Live Application:** [https://basebuilder-9poelhd6r-big14ways-projects.vercel.app](https://basebuilder-9poelhd6r-big14ways-projects.vercel.app)
+
 **Smart Contracts (Base Sepolia Testnet):**
 - BaseStorage: [`0x3a2D0ac1CD3389A6a9E842d81806A5457e0a1fA0`](https://sepolia.basescan.org/address/0x3a2D0ac1CD3389A6a9E842d81806A5457e0a1fA0)
 - BaseNFT: [`0xe0999DC9273ec26CE8ae65178E26bE4dB404673C`](https://sepolia.basescan.org/address/0xe0999DC9273ec26CE8ae65178E26bE4dB404673C)
 
-**Status:** ✅ Deployed and verified on Base Sepolia
+**Status:** ✅ Deployed and live on Base Sepolia | 🚀 Frontend deployed on Vercel
 
 ## 🎯 Overview
 
